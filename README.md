@@ -27,7 +27,7 @@
   - 使用 DeepSeek 对作文进行打分和多维度分析（见 `api/agent.py` 中 `deepseek_agent_get_essay_structure`）
 ## 🖥️ 页面功能预览
 - **登录 / 注册** (`static/html/login.html`)
-  > 提供用户身份验证功能，界面简洁明了。
+  > 提供用户身份验证功能。
   <img src="https://github.com/user-attachments/assets/5d9fab65-4482-4584-85e0-4d149d29ece4" width="600" />
 
 - **首页看板** (`static/html/index.html`)
